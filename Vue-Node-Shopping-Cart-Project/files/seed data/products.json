@@ -1,0 +1,86 @@
+[
+    {
+       "name": "White shirt",
+       "category": "t-shirts",
+       "description": "A white t-shirt",
+       "image": "white_shirt.jpg",
+       "price": 2.99
+    },
+    {
+       "name": "Blue shirt",
+       "category": "t-shirts",
+       "description": "A blue t-shirt",
+       "image": "blue_shirt.jpg",
+       "price": 3.99
+    },
+    {
+       "name": "Apples",
+       "category": "fruits",
+       "description": "Nice apples",
+       "image": "apples.jpg",
+       "price": 1.5
+    },
+    {
+       "name": "Bananas",
+       "category": "fruits",
+       "description": "Nice apples",
+       "image": "bananas.jpg",
+       "price": 2.99
+    },
+    {
+       "name": "Black shirt",
+       "category": "t-shirts",
+       "description": "A black t-shirt",
+       "image": "black_shirt.jpg",
+       "price": 2.99
+    },
+    {
+       "name": "Grey shirt",
+       "category": "t-shirts",
+       "description": "A grey t-shirt",
+       "image": "grey_shirt.jpg",
+       "price": 3.99
+    },
+    {
+       "name": "Grapefruit",
+       "category": "fruits",
+       "description": "Juicy grapefruit",
+       "image": "grapefruit.jpg",
+       "price": 2.5
+    },
+    {
+       "name": "Grapes",
+       "category": "fruits",
+       "description": "Nice grapes",
+       "image": "grapes.jpg",
+       "price": 2
+    },
+    {
+       "name": "Pink shirt",
+       "category": "t-shirts",
+       "description": "A pink t-shirt",
+       "image": "pink_shirt.jpg",
+       "price": 5.99
+    },
+    {
+       "name": "Yellow shirt",
+       "category": "t-shirts",
+       "description": "A yellow t-shirt",
+       "image": "yellow_shirt.jpg",
+       "price": 6.99
+    },
+    {
+       "name": "Kiwi",
+       "category": "fruits",
+       "description": "Fresh kiwi",
+       "image": "kiwi.jpg",
+       "price": 3
+    },
+    {
+       "name": "Watermelon",
+       "category": "fruits",
+       "description": "Delicious watermelon",
+       "image": "watermelon.jpg",
+       "price": 0.5
+    }
+ ]

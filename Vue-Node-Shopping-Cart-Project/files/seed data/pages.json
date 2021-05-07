@@ -1,0 +1,22 @@
+[
+    {
+       "name": "Home",
+       "slug": "home",
+       "content": "home page"
+    },
+    {
+       "name": "About Us",
+       "slug": "about-us",
+       "content": "about us page"
+    },
+    {
+       "name": "Services",
+       "slug": "services",
+       "content": "services page"
+    },
+    {
+       "name": "Contact",
+       "slug": "contact",
+       "content": "contact page"
+    }
+ ]
